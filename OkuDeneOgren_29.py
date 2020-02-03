@@ -46,7 +46,8 @@ def azalt():
 personel = Personel() # Buradaki personel örneğinin adı Personel() sınıfının tüm özelliklerini taşır.
 
 
-# __init__() fonksiyonu : Bir sınıftan instance oluşturulduğunda yapılacak işler bu fonksiyon içerisine yazılır. Bir nevi constructor - yapıcı(kurucu) fonksiyondur.
+# __init__() fonksiyonu : Bir sınıftan instance oluşturulduğunda yapılacak işler bu fonksiyon içerisine yazılır. Bir nevi 
+# constructor - yapıcı(kurucu) fonksiyondur.
 
 class Personel():
 	
